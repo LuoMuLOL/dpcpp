@@ -1,0 +1,12 @@
+/home/admin123/project/project/build/build/Linux-DPCplusplus-clang-cuda/CMakeFiles/MyProject.dir
+/home/admin123/project/project/build/build/Linux-DPCplusplus-clang-cuda/CMakeFiles/edit_cache.dir
+/home/admin123/project/project/build/build/Linux-DPCplusplus-clang-cuda/CMakeFiles/rebuild_cache.dir
+/home/admin123/project/project/build/build/Linux-DPCplusplus-clang-cuda/Alice/CMakeFiles/Alice.dir
+/home/admin123/project/project/build/build/Linux-DPCplusplus-clang-cuda/Alice/CMakeFiles/edit_cache.dir
+/home/admin123/project/project/build/build/Linux-DPCplusplus-clang-cuda/Alice/CMakeFiles/rebuild_cache.dir
+/home/admin123/project/project/build/build/Linux-DPCplusplus-clang-cuda/Bob/CMakeFiles/Bob.dir
+/home/admin123/project/project/build/build/Linux-DPCplusplus-clang-cuda/Bob/CMakeFiles/edit_cache.dir
+/home/admin123/project/project/build/build/Linux-DPCplusplus-clang-cuda/Bob/CMakeFiles/rebuild_cache.dir
+/home/admin123/project/project/build/build/Linux-DPCplusplus-clang-cuda/deps/curve25519/CMakeFiles/curve25519.dir
+/home/admin123/project/project/build/build/Linux-DPCplusplus-clang-cuda/deps/curve25519/CMakeFiles/edit_cache.dir
+/home/admin123/project/project/build/build/Linux-DPCplusplus-clang-cuda/deps/curve25519/CMakeFiles/rebuild_cache.dir
